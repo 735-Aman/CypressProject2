@@ -1,0 +1,15 @@
+{
+  "name": "summercypress2023",
+  "version": "1.0.0",
+  "description": "First Package of Automation 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
